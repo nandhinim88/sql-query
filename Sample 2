@@ -1,0 +1,6 @@
+Alter table student1 add (mark1 number(3),mark2 varchar(3), mark3 varchar(3));
+Alter table student1 modify (roll_no varchar(5));
+Select * from student1;
+Drop table student1;
+
+
